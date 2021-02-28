@@ -1,9 +1,5 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# Copyright (c) 2010 Matej Laitl <matej@laitl.cz>
-# Distributed under the terms of the GNU General Public License v2 or any
-# later version of the license, at your option.
-
 from distutils.core import setup
 import os.path
 
@@ -34,13 +30,13 @@ setup(
     # Note to myself: must manually upload on each release!
     download_url='https://github.com/downloads/strohel/PyBayes/PyBayes-'+version+'.tar.gz',
     platforms='cross-platform',
-    license='GNU GPL v2+',
+    license='MIT',
     classifiers=[
         'Development Status :: 3 - Alpha',
         'Intended Audience :: Developers',
         'Intended Audience :: Education',
         'Intended Audience :: Science/Research',
-        'License :: OSI Approved :: GNU General Public License (GPL)',
+        'License :: OSI Approved :: MIT License',
         'Operating System :: OS Independent',
         'Programming Language :: Cython',
         'Programming Language :: Python',

@@ -2,6 +2,8 @@
 PyBayes
 =======
 
+*Note: this software is not maintained since 2014.*
+
 About
 =====
 
@@ -23,9 +25,9 @@ http://strohel.github.com/PyBayes-doc/
 Licensing
 ---------
 
-PyBayes is currently distributed under GNU GPL v2+ license. The authors of
-PyBayes are however open to other licensing suggestions. (Do you want to use
-PyBayes in e.g. BSD-licensed project? Ask!)
+PyBayes is distributed under the `MIT license`_.
+
+.. _`MIT license`: https://choosealicense.com/licenses/mit/
 
 Obtaining PyBayes
 =================

@@ -21,7 +21,7 @@ Version:        0.3.9999
 Release:        0
 Url:            https://github.com/strohel/PyBayes
 Summary:        Python library for recursive Bayesian estimation (Bayesian filtering)
-License:        GPL-2.0
+License:        MIT
 Group:          Development/Languages/Python
 Source:         https://github.com/downloads/strohel/PyBayes/PyBayes-%{version}.tar.gz
 BuildRoot:      %{_tmppath}/%{name}-%{version}-build

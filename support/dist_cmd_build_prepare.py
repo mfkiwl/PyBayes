@@ -1,7 +1,3 @@
-# Copyright (c) 2011 Matej Laitl <matej@laitl.cz>
-# Distributed under the terms of the GNU General Public License v2 or any
-# later version of the license, at your option.
-
 """
 An additional subcommand to distutils' build to handle Python/Cython build of PyBayes
 """

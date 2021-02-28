@@ -1,7 +1,3 @@
-# Copyright (c) 2011 Matej Laitl <matej@laitl.cz>
-# Distributed under the terms of the GNU General Public License v2 or any
-# later version of the license, at your option.
-
 """
 A custom command for distutils to facilitate testing of PyBayes
 """

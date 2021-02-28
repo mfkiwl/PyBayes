@@ -1,7 +1,3 @@
-# Copyright (c) 2011 Matej Laitl <matej@laitl.cz>
-# Distributed under the terms of the GNU General Public License v2 or any
-# later version of the license, at your option.
-
 """
 A package with supportive Python modules that are not part of the PyBayes itself, but faciliate
 PyBayes building, installation, testing, stress-testing etc.

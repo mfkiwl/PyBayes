@@ -1,7 +1,3 @@
-# Copyright (c) 2010 Matej Laitl <matej@laitl.cz>
-# Distributed under the terms of the GNU General Public License v2 or any
-# later version of the license, at your option.
-
 """
 PyBayes is an effort to create general, convenient to use and fast library for Bayesian filtering
 (and perhaps decision making in future). It is written in Python, but can make use of Cython to
